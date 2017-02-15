@@ -8,3 +8,4 @@
 
 
   echo "hELLO wORLD !";
+  echo "Welcome to programming";
