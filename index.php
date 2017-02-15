@@ -9,3 +9,9 @@
 
   echo "hELLO wORLD !";
   echo "Welcome to programming";
+
+  function Abc($name){
+      echo $name;
+  }
+
+  Abc("Nazrul");
